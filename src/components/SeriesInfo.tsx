@@ -72,9 +72,9 @@ const SeriesInfo = () => {
 
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=400&fit=crop"
-              alt="Invincible Series"
-              className="w-full h-80 object-cover rounded-lg shadow-xl"
+              src="https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?w=600&h=800&fit=crop"
+              alt="Invincible Series Poster"
+              className="w-full h-96 object-cover rounded-lg shadow-xl"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-invincible-dark/50 to-transparent rounded-lg"></div>
           </div>

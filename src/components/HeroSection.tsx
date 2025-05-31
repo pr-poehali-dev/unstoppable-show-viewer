@@ -10,7 +10,7 @@ const HeroSection = () => {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div className="text-white animate-fade-in">
             <h1 className="text-5xl md:text-7xl font-montserrat font-bold mb-4">
-              НЕПОБЕ<span className="text-invincible-yellow">ДИ</span>МЫЙ
+              НЕУЯЗ<span className="text-invincible-yellow">ВИ</span>МЫЙ
             </h1>
             <p className="text-xl font-opensans mb-6 text-gray-200">
               Взрослый анимационный сериал о супергерое, который должен
@@ -31,8 +31,8 @@ const HeroSection = () => {
             <div className="w-80 h-80 mx-auto relative animate-hero-float">
               <div className="absolute inset-0 bg-gradient-to-br from-invincible-red to-invincible-blue rounded-full opacity-20 blur-3xl"></div>
               <img
-                src="https://images.unsplash.com/photo-1611805166972-afdddb84c46e?w=400&h=400&fit=crop"
-                alt="Invincible Hero"
+                src="https://images.unsplash.com/photo-1635805737707-575885ab0820?w=400&h=400&fit=crop"
+                alt="Mark Grayson in Invincible costume"
                 className="w-full h-full object-cover rounded-full border-4 border-invincible-yellow shadow-2xl"
               />
             </div>

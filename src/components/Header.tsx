@@ -10,7 +10,7 @@ const Header = () => {
             <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center">
               <Icon name="Zap" className="text-invincible-red" size={24} />
             </div>
-            <h1 className="text-2xl font-montserrat font-bold">Непобедимый</h1>
+            <h1 className="text-2xl font-montserrat font-bold">Неуязвимый</h1>
           </div>
 
           <nav className="hidden md:flex space-x-6">
